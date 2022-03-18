@@ -1,3 +1,8 @@
 A = 1
 B = 2
 print ("Total", C)
+
+
+C = 10
+D = 20
+print ("C*D")
