@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1647575419,,"wq!"
+|2,0,1647575674,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,30 @@
 # Registers:
 
 # File marks:
-'0  8  12  ~/coding
-|4,48,8,12,1647575419,"~/coding"
-'1  3  16  ~/coding
-|4,49,3,16,1647575235,"~/coding"
-'2  3  16  ~/coding
-|4,50,3,16,1647575235,"~/coding"
+'0  13  10  ~/coding
+|4,48,13,10,1647575674,"~/coding"
+'1  8  12  ~/coding
+|4,49,8,12,1647575419,"~/coding"
+'2  8  12  ~/coding
+|4,50,8,12,1647575419,"~/coding"
+'3  3  16  ~/coding
+|4,51,3,16,1647575235,"~/coding"
+'4  3  16  ~/coding
+|4,52,3,16,1647575235,"~/coding"
+'5  3  16  ~/coding
+|4,53,3,16,1647575235,"~/coding"
+'6  3  16  ~/coding
+|4,54,3,16,1647575235,"~/coding"
 
 # Jumplist (newest first):
+-'  13  10  ~/coding
+|4,39,13,10,1647575674,"~/coding"
+-'  8  12  ~/coding
+|4,39,8,12,1647575645,"~/coding"
 -'  8  12  ~/coding
 |4,39,8,12,1647575419,"~/coding"
+-'  3  16  ~/coding
+|4,39,3,16,1647575368,"~/coding"
 -'  3  16  ~/coding
 |4,39,3,16,1647575368,"~/coding"
 -'  3  16  ~/coding
@@ -43,13 +57,16 @@
 |4,39,1,0,1647575185,"~/coding"
 -'  1  0  ~/coding
 |4,39,1,0,1647575185,"~/coding"
+-'  1  0  ~/coding
+|4,39,1,0,1647575185,"~/coding"
 
 # History of marks within files (newest to oldest):
 
 > ~/coding
-	*	1647575416	0
-	"	8	12
-	^	8	13
-	.	8	12
+	*	1647575667	0
+	"	13	10
+	^	13	11
+	.	13	10
 	+	3	18
-	+	8	12
+	+	8	13
+	+	13	10
